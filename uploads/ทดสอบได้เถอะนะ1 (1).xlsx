@@ -1,0 +1,242 @@
+<table class="table" borderd="1">
+                <tr>
+                    <th>ลำดับ</th>                 
+                    <th>หมายเลขสินทรัพย์</th>
+                    <th>ชื่อ</th>
+                    <th>ปริมาณ</th>
+                    <th>ต้นทุนต่อหน่วย</th>               
+                    <th>ยี่ห้อ</th>
+                    <th>โมเดล</th>
+                    <th>หมายเลขเครื่อง</th>
+                    <th>ผู้ดูแล</th>
+                    <th>ห้อง</th>
+                    <th>สถานะการตรวจนับ</th>
+                </tr><tr>
+                        <td>1</td>
+                        <td>123abc</td>
+                        <td>เก้าอี้</td>
+                        <td>1</td>
+                        <td>100</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT02</td>
+                        <td>ใช้งาน</td>
+                    </tr><tr>
+                        <td>2</td>
+                        <td>76</td>
+                        <td>เก้าอี้ลูกเลื่อน</td>
+                        <td>2</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ธัญวิทย์ ดวงแสง</td>
+                        <td>ICT03</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>3</td>
+                        <td>73</td>
+                        <td>เก้าอี้</td>
+                        <td>1</td>
+                        <td>400</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ภงส์ภิฉัตร สุเมธะ</td>
+                        <td>ICT04</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>4</td>
+                        <td>123abc</td>
+                        <td>มอนิเตอร์</td>
+                        <td>1</td>
+                        <td>50000</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ภงส์ภิฉัตร สุเมธะ</td>
+                        <td>ICT07</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>5</td>
+                        <td>123abc</td>
+                        <td>เก้าอี้คอม</td>
+                        <td>1</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ภงส์ภิฉัตร สุเมธะ</td>
+                        <td>ICT08</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>6</td>
+                        <td>123abc</td>
+                        <td>เก้าอี้ลูกเลื่อน</td>
+                        <td>1</td>
+                        <td>300</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ภงส์ภิฉัตร สุเมธะ</td>
+                        <td>ICT09</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>7</td>
+                        <td>123abc</td>
+                        <td>ตู้</td>
+                        <td>2</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ณัฐนันท์ แก้วหน่อเมือง</td>
+                        <td>ICT10</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>8</td>
+                        <td>123abc</td>
+                        <td>โต๊ะคอม</td>
+                        <td>2</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ณัฐนันท์ แก้วหน่อเมือง</td>
+                        <td>ICT11</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>9</td>
+                        <td>123abc</td>
+                        <td>โต๊ะทำงาน</td>
+                        <td>1</td>
+                        <td>200</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ณัฐนันท์ แก้วหน่อเมือง</td>
+                        <td>ICT08</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>10</td>
+                        <td>123abc</td>
+                        <td>โต๊ะกินข้าว</td>
+                        <td>3</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ณัฐนันท์ แก้วหน่อเมือง</td>
+                        <td>ICT09</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>11</td>
+                        <td>123abc</td>
+                        <td>โต๊ะคอม</td>
+                        <td>1</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ธัญวิทย์ ดวงแสง</td>
+                        <td>ICT10</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>12</td>
+                        <td>123abc</td>
+                        <td>โต๊ะคอม</td>
+                        <td>2</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ธัญวิทย์ ดวงแสง</td>
+                        <td>ICT11</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>13</td>
+                        <td>123abc</td>
+                        <td>โต๊ะทำงาน</td>
+                        <td>1</td>
+                        <td>500</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>ธัญวิทย์ ดวงแสง</td>
+                        <td>ICT12</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>14</td>
+                        <td>123abc</td>
+                        <td>คอมพิวเตอร์</td>
+                        <td>1</td>
+                        <td>9000</td>
+                        <td>acer</td>
+                        <td>veriton M6610G</td>
+                        <td>064IE121548</td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT15</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>15</td>
+                        <td>123abc</td>
+                        <td>คอมพิวเตอร์</td>
+                        <td>1</td>
+                        <td>9000</td>
+                        <td>acer</td>
+                        <td>veriton M6610G</td>
+                        <td>064IE121549</td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT1</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>16</td>
+                        <td>123abc</td>
+                        <td>คอมพิวเตอร์</td>
+                        <td>1</td>
+                        <td>9000</td>
+                        <td>acer</td>
+                        <td>veriton M6610G</td>
+                        <td>064IE121550</td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT2</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>17</td>
+                        <td>123abc</td>
+                        <td>คอมพิวเตอร์</td>
+                        <td>1</td>
+                        <td>9000</td>
+                        <td>acer</td>
+                        <td>veriton M6610G</td>
+                        <td>064IE121551</td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT3</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>18</td>
+                        <td>123abc</td>
+                        <td>คอมพิวเตอร์</td>
+                        <td>1</td>
+                        <td>9000</td>
+                        <td>acer</td>
+                        <td>V193W</td>
+                        <td>123457972</td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT34</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr><tr>
+                        <td>19</td>
+                        <td>123abc</td>
+                        <td>คอมพิวเตอร์</td>
+                        <td>1</td>
+                        <td>9000</td>
+                        <td>acer</td>
+                        <td>V193W</td>
+                        <td>123457972</td>
+                        <td>ณภัทร ศวิตชาต</td>
+                        <td>ICT35</td>
+                        <td>ยังไม่ได้ตรวจนับ</td>
+                    </tr></table>
